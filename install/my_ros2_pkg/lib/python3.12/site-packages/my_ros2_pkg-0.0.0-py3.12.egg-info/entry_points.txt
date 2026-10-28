@@ -1,0 +1,3 @@
+[console_scripts]
+publisher = my_ros2_pkg.publisher:main
+subscriber = my_ros2_pkg.subscriber:main

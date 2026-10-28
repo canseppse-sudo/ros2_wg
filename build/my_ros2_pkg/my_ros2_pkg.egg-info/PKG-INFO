@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: my-ros2-pkg
+Version: 0.0.0
+Summary: ROS 2 Publisher and Subscriber example
+Maintainer: cansep
+Maintainer-email: cansep@todo.todo
+License: TODO: License declaration
+Provides-Extra: test
